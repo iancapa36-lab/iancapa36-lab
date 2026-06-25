@@ -5,64 +5,68 @@
   <p>📍 Taubaté - SP (Disponível para mudanças e viagens)</p>
 </div>
 
+
+
 ---
 
 ## 👩‍💻 Sobre Mim
 
-Sou profissional com formação em **Engenharia Civil**, pós-graduada em **Gestão Financeira Corporativa (PUC Minas)** e atualmente me especializando em **Engenharia de Dados e Inteligência Artificial** na Anhanguera. 
+Sou profissional com formação em **Engenharia Civil**, pós-graduada em **Gestão Financeira Corporativa (PUC Minas)** e atualmente me especializando em **Engenharia de Dados e Inteligência Artificial** na Anhanguera.
 
-Minha expertise está na interseção entre engenharia, finanças e tecnologia. Utilizo **Power BI, SQL, Python e Excel** para transformar dados brutos e complexos em ecossistemas automatizados e dashboards altamente estratégicos, com foco em redução de custos, análise de faturamento e otimização de processos de tomada de decisão.
+Minha atuação é totalmente focada em **Análise de Dados**. Utilizo inteligência de negócios para transformar dados brutos e complexos em ecossistemas integrados e relatórios altamente estratégicos. Tenho sólida experiência no mapeamento de indicadores de custos, análise granular de faturamento e modelagem de regras de negócio para dar suporte à tomada de decisões da diretoria.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Principais Tecnologias (Core Skills)
 
-### 📊 Business Intelligence & Visualização
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
 
-### 💻 Engenharia & Análise de Dados
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### ⚙️ Automatização & Produtividade
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+## ⚙️ Habilidades em Automação e Processos
+
+Além do desenvolvimento de relatórios analíticos, atuo na estruturação de processos de ponta a ponta:
+
+* **Automação de Processos (Power Platform):** Construção de fluxos automatizados integrando **Power Automate**, rotinas no **SharePoint** e aplicativos em **Power Apps** para coleta e padronização de dados operacionais.
+* **Engenharia de Dados:** Desenvolvimento de pipelines para processos de ETL e modelagem avançada utilizando ambientes em nuvem.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 📈 Dashboard de Performance Comercial e Faturamento de Vendas
+### 📈 Solução de Performance Comercial e Faturamento de Vendas
+> **Localização do Projeto:** [👉 Clique aqui para acessar o Repositório no GitHub](https://github.com/iancapa36-lab/-dashboard-vendas-powerbi)
 
-> **Link para o Repositório do Projeto:** [👉 Acessar Projeto Completo](https://github.com/iancapa36-lab/-dashboard-vendas-powerbi)
+#### **Abordagem Analítica e Problema de Negócio Resolvido:**
+A diretoria comercial necessitava monitorar em tempo real a performance da equipe de vendas em múltiplos estados (SP, RJ, MG), contrapondo o faturamento real com as metas dinâmicas estipuladas da empresa para garantir agilidade comercial.
+
+#### **Recursos Técnicos Aplicados no Repositório:**
+* **Modelagem de Dados (Star Schema):** Estruturação lógica e relacional de tabelas fato e dimensões para otimização de performance.
+* **Cálculos Avançados com DAX:** Desenvolvimento de métricas customizadas para Faturamento Total (gerenciando **R$ 339 Mil** no período), médias de vendas e percentuais de atingimento de metas.
+* **Análise de Pareto & Distribuição Geográfica:** Aplicação de conceitos de segmentação para identificar que o estado de São Paulo liderou a operação (R$ 241 Mil) e destacar os vendedores de maior relevância através de visuais inteligentes de matriz e treemap.
+
+---
+
+## 📈 Estatísticas de Desenvolvimento
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iancapa36-lab/-dashboard-vendas-powerbi/main/painel.png.png" alt="Dashboard Comercial" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=iancapa36-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancapa36-lab&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
 </div>
 
-#### **Contexto do Negócio e Problema Resolvido:**
-A diretoria comercial necessitava de uma visão consolidada e em tempo real sobre a performance da equipe de vendas em múltiplos estados (SP, RJ, MG), além do acompanhamento do faturamento real contra as metas estipuladas da empresa para tomada de decisão ágil.
-
-#### **Principais Recursos Implementados:**
-* **Análise Macro Financeira (KPIs):** Cards com destaque para Faturamento Total (**R$ 339 Mil**), Média de Vendas (**R$ 18,83 Mil**) e visões segmentadas por equipe (Time M: **R$ 202 Mil** / Time F: **R$ 137 Mil**).
-* **Acompanhamento de Metas:** Gráfico de Gauge (Velocímetro) dinâmico comparando o faturamento atual (R$ 339 Mil) com a meta global do período (R$ 450K - R$ 500K).
-* **Distribuição Geográfica & Rankings:** Matriz cruzada detalhando faturamento por vendedor e região geográfica, permitindo identificar que São Paulo lidera as operações com R$ 241 Mil.
-* **Gráfico de Treemap:** Análise visual instantânea para identificar os vendedores de maior performance no faturamento (destaque para Giovana Souza e Matheus Silvano).
-* **Filtros Avançados:** Segmentações por Cliente e por Produto para simulações e análises granulares rápidas.
-
-#### **Tecnologias Utilizadas:**
-* **Power BI & DAX:** Modelagem de dados relacionais e cálculos de métricas de faturamento e médias.
-* **Design Inteligente:** Visual em Dark Mode para reduzir a fadiga visual e destacar os KPIs principais em cores estratégicas.
-
 ---
 
-## 📚 O que estou estudando agora
-- Engenharia de Dados com Databricks, Spark e PySpark
-- Modelagem de dados avançada e automação de ETL
+## 📚 Estudos e Especializações Atuais
+- Engenharia de Dados com Databricks, Spark e PySpark.
+- Modelagem de dados avançada e automação de pipelines de ETL.
 
----
+
 
 ## 📬 Vamos nos conectar?
 
